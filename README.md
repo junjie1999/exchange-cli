@@ -43,7 +43,7 @@ Example:
 exchange-cli 100 USD EUR
 ```
 
-### Available Commands
+### Commands
 
 - `list`: List all country units.
 ```bash
