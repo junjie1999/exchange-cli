@@ -56,6 +56,7 @@ exchange-cli update
 ```
 
 ### Flags
+
 - `-h, --help`: Display help for the command.
 - `-v, --version`: Display the version of the program.
 
